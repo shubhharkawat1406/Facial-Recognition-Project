@@ -44,7 +44,7 @@ To allow the webcam to take pictures
 ```bash
   python .\face-dataset.py
 ```
-### Now Run
+#### Now Run
 To train the model
 ```bash
   python .\face-training.py
